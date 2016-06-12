@@ -25,4 +25,4 @@ def create(data, name):
         f_csv.writerow(data)
 
 if __name__ == '__main__':
-    readxls('ExcelName') #xls的文件名,不需要加格式后缀
+    readxls('ExcelName') #xls的文件名,不需要加后缀
